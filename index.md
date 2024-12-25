@@ -22,4 +22,4 @@ Fritidsbåtar kan tillfälligt lägga till vid öns norra udde, vid Salthallabry
 
 **Nedan kan du se vart Långörenn är på kartan**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6950.217650964804!2d15.817794864757838!3d56.05866335322233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46560fcb2a8b82a9%3A0x8e5745e30d0c302b!2zTMOlbmfDtnJlbiBicnlnZ2E!5e0!3m2!1sen!2sse!4v1735157010510!5m2!1sen!2sse" width="400" height="450" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6950.217650964804!2d15.817794864757838!3d56.05866335322233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46560fcb2a8b82a9%3A0x8e5745e30d0c302b!2zTMOlbmfDtnJlbiBicnlnZ2E!5e0!3m2!1sen!2sse!4v1735157010510!5m2!1sen!2sse" width="600" height="450" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
