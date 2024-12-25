@@ -12,7 +12,6 @@ Sommartid trafikerar [skärgårdsbåtarna](https://www.blekingetrafiken.se/resei
 
 Långörens Hembygds- och samhällsförening ansvarar för denna hemsida, som ger en allmän information om Långörens natur och kultur. Här presenteras också öns föreningar och deras verksamhet.
 
-
 ## Hitta Hit
 
 Långören är den östligaste ön i Torhamns skärgård, även kallad Östra Skärgården, som tillhör Karlskrona kommun. Avståndet till Torhamn är 3 km, till Karlskrona ca 20 km.
@@ -23,4 +22,4 @@ Fritidsbåtar kan tillfälligt lägga till vid öns norra udde, vid Salthallabry
 
 **Nedan kan du se vart Långörenn är på kartan**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.732494740328!2d15.819895467432685!3d56.06416436282577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46560da6e78e0e23%3A0xf00fef434225ad0!2sLangoren!5e0!3m2!1sen!2sse!4v1735144677706!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6167.692523889319!2d15.817321366754916!3d56.06287299004811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46560fcb2a8b82a9%3A0x8e5745e30d0c302b!2zTMOlbmfDtnJlbiBicnlnZ2E!5e0!3m2!1sen!2sse!4v1735145327801!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
