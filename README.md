@@ -44,4 +44,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://mmmechanic.github.io/langoren/) and <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Tlz6U2B1-DJeUE7XFUDtqQHaEK%26pid%3DApi&f=1"
+[Link](https://mmmechanic.github.io/langoren/) and <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy_9079tj--4%2Fmaxresdefault.jpg&f=1&nofb=1" alt="Minecraft Wooden House + Download - YouTube" style="zoom:25%;" />
