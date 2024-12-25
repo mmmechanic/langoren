@@ -1,3 +1,2 @@
-# Långören
-
-Detta är ett test för hemsidan. 
+# info about website:
+hello my name is mm mechanic
