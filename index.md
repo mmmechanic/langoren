@@ -12,7 +12,7 @@ Sommartid trafikerar [skärgårdsbåtarna](https://www.blekingetrafiken.se/resei
 
 Långörens Hembygds- och samhällsförening ansvarar för denna hemsida, som ger en allmän information om Långörens natur och kultur. Här presenteras också öns föreningar och deras verksamhet.
 
-Hör kommer en lista på länkar vidare på sidan:
+**Hör kommer en lista på länkar vidare på sidan:**
 
 * [Hitta Hit](hitta_hit.md)
 * [Välkommen till vandrarhemmet](valkomme_lotshuset.md)
