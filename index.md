@@ -47,4 +47,4 @@ Vill du läsa mer eller boka? Besök vår bokningssite
 </a>
 
 
-Kontakta vandrarhemmet via <a href="bokning.langoren@gmail.com">Send email</a>
+Kontakta vandrarhemmet via bokning.langoren@gmail.com   
