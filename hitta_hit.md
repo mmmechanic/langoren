@@ -1,4 +1,7 @@
-# Hitta Hit
+---
+permalink: /hitta_hit/
+title: "Hitta Hit"
+---
 
 Långören är den östligaste ön i Torhamns skärgård, även kallad Östra Skärgården, som tillhör Karlskrona kommun. Avståndet till Torhamn är 3 km, till Karlskrona ca 20 km.
 
