@@ -1,3 +1,10 @@
+---
+layout: default
+title: courses and tutorials
+nav_order: 5
+has_children: True
+---
+
 # Välkommen till Långören
 
 ![Image](https://usercontent.one/wp/nyhemsida.langoraslakten.org/wp-content/uploads/2024/07/langoren003-Kopia-copy.jpg)
