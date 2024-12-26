@@ -23,3 +23,28 @@ Fritidsbåtar kan tillfälligt lägga till vid öns norra udde, vid Salthallabry
 **Nedan kan du se vart Långörenn är på kartan**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8910.761037754017!2d15.8177949!3d56.0586634!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46560fcb2a8b82a9%3A0x8e5745e30d0c302b!2zTMOlbmfDtnJlbiBicnlnZ2E!5e0!3m2!1sen!2sse!4v1735201947423!5m2!1sen!2sse" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Välkommen att bo i Lotshuset
+
+Välkomna till Långörens vandrarhem tillika öns Lotshus!
+
+Vill du njuta av lugnet och se solens upp och nedgång över havet? Då är Långörens vandrarhem rätt plats för dig! I vårt vandrarhem finns möjlighet att övernatta enstaka nätter eller hela veckor. Vandrarhemmet är i enkel men mysig standard. Elektricitet finns i byggnaderna men vatten hämtas i en kran utanför husets knut. Fullt utrustat kök finns. Två miljövänliga förmultningstoaletter i god standard finns på tomten. Tillgång till wi-fi, grill och utemöbler.
+
+Observera att det inte finns några inköpsmöjligheter på ön, närmsta affär finns på fastlandet i Torhamn.
+
+Vandrarhemmets byggnader är kulturminnesmärkta varav ingen tillgänglighetsanpassning kunnat ske – trappor, trösklar och smala dörrar förekommer.
+
+Utöver vandrarhem finns också möjlighet att boka möteslokal för cirka 20 personer på Lotshusets bottenvåning. Även öns Missionshuset är möjlig att boka för möten och ceremonier.
+
+Verksamheten drivs ideellt, alla intäkter går till drift och underhåll av Lotshuset och Missionshuset.
+
+Vandrarhemmet är öppet maj-september.
+
+Vill du läsa mer eller boka? Besök vår bokningssite 
+
+<a href="https://langorens-hembygdsforening.bokamera.se/">
+  <button>Answers by Sentry</button>
+</a>
+
+
+Kontakta vandrarhemmet via bokning.langoren@gmail.com
