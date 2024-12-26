@@ -14,6 +14,8 @@ Långörens Hembygds- och samhällsförening ansvarar för denna hemsida, som ge
 
 Hör kommer en lista på länkar vidare på sidan:
 
-* [2024-11-09 Bofors](races_24-25.md)
+* [Hitta Hit](hitta_hit.md)
+* [Välkommen till vandrarhemmet](valkomme_lotshuset.md)
+* [Strövstigen](strovstigen.md)
 
 
