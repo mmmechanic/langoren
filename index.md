@@ -43,7 +43,7 @@ Vandrarhemmet är öppet maj-september.
 Vill du läsa mer eller boka? Besök vår bokningssite 
 
 <a href="https://langorens-hembygdsforening.bokamera.se/">
-  <button>Answers by Sentry</button>
+  <button>Boka Här</button>
 </a>
 
 
